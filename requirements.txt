@@ -1,0 +1,5 @@
+scipy==0.19.1
+numpy
+matplotlib
+h5py
+pillow
